@@ -243,7 +243,7 @@ const styles = StyleSheet.create({
     fontFamily: "Rajdhani_600SemiBold"
   },
   date: {
-    fontSize: 12,
+    fontSize: 13,
     fontFamily: "Rajdhani_600SemiBold",
     paddingTop: 5
   }
